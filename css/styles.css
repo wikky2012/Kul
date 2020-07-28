@@ -1,6 +1,7 @@
 .jumbotron{
     color:white;
    text-align: center;
+   height: 40vh;
 }
 .jumbotron img{
   border-radius: 50px;
@@ -12,7 +13,7 @@
 .footer{
     text-align: center;
 }
-.main-body{
+.main-body h2{
    text-align: center;
    color: lightcoral;
 }
