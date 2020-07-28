@@ -1,5 +1,5 @@
 .jumbotron{
-    color:white;
+   color:white;
    text-align: center;
    height: 40vh;
 }
@@ -13,7 +13,10 @@
 .footer{
     text-align: center;
 }
-.main-body h2{
+.main-body h5{
    text-align: center;
    color: lightcoral;
+}
+.main-body{
+    text-align: center;
 }
