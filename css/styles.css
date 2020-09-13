@@ -36,3 +36,6 @@ p{
     font-family: 'Parisienne', cursive;
     font-family: 'Playball', cursive;
 }
+input{
+    margin-right: 40px;
+}
