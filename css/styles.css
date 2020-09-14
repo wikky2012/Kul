@@ -1,7 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Parisienne&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,300&display=swap');
 body{
-    font-family: 'Kaushan Script', cursive;
+    font-family: 'Cormorant', serif;
+}
+img{
+    border-radius: 50px;
 }
 .jumbotron{
    color:white;
@@ -30,11 +32,6 @@ div{
 }
 .row{
     margin-top: 20px;
-}
-p{
-    font-family: 'Kaushan Script', cursive;
-    font-family: 'Parisienne', cursive;
-    font-family: 'Playball', cursive;
 }
 input{
     margin-right: 40px;
